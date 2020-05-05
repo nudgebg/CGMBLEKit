@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "dev"
+github "nudgebg/LoopKit" "nudge"
+github "nudgebg/dexcom-share-client-swift" "nudge"
